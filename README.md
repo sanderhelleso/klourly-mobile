@@ -1,8 +1,3 @@
-# klourly
+# Klourly
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Mobile app for Klourly - A flexible, radius based application for taking attendence
